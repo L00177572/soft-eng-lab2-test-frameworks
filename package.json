@@ -1,0 +1,19 @@
+{
+  "name": "soft-eng-lab2-test-frameworks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/L00177572/soft-eng-lab2-test-frameworks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/L00177572/soft-eng-lab2-test-frameworks/issues"
+  },
+  "homepage": "https://github.com/L00177572/soft-eng-lab2-test-frameworks#readme"
+}
