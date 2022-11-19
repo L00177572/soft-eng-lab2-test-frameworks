@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/L00177572/soft-eng-lab2-test-frameworks/issues"
   },
-  "homepage": "https://github.com/L00177572/soft-eng-lab2-test-frameworks#readme"
+  "homepage": "https://github.com/L00177572/soft-eng-lab2-test-frameworks#readme",
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  }
 }
