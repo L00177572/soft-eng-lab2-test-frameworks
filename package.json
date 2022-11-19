@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/L00177572/soft-eng-lab2-test-frameworks#readme",
   "devDependencies": {
-    "mocha": "^10.1.0"
+    "mocha": "^10.1.0",
+    "selenium-webdriver": "^4.6.1",
+    "chromedriver": "^106.0.1"
   }
 }

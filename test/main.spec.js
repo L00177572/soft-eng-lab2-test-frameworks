@@ -1,7 +1,7 @@
 const assert = require("assert")
 const mainJs = require("./../main")
 
-describe("Unit testing main.js", function () {
+describe.skip("Unit testing main.js", function () {
 
   const zero = 0
   const a = 7
